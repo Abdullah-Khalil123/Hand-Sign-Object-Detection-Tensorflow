@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>want7_png.rf.2eaf5fa8ab15153bc514b945786e9f8e.jpg</filename>
+	<path>want7_png.rf.2eaf5fa8ab15153bc514b945786e9f8e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>want</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>67</xmin>
+			<xmax>999</xmax>
+			<ymin>531</ymin>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>

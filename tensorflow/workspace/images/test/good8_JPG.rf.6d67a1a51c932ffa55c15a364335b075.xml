@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>good8_JPG.rf.6d67a1a51c932ffa55c15a364335b075.jpg</filename>
+	<path>good8_JPG.rf.6d67a1a51c932ffa55c15a364335b075.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>366</xmin>
+			<xmax>613</xmax>
+			<ymin>647</ymin>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+</annotation>

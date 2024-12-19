@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>get10_JPG.rf.9df5ec57a256245e5f89a121ecef58e8.jpg</filename>
+	<path>get10_JPG.rf.9df5ec57a256245e5f89a121ecef58e8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>get</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>497</xmin>
+			<xmax>584</xmax>
+			<ymin>544</ymin>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>

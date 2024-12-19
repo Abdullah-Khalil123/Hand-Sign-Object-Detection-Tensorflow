@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>apple5_png.rf.04e0e0efe6cba6724eea27ebdf99245a.jpg</filename>
+	<path>apple5_png.rf.04e0e0efe6cba6724eea27ebdf99245a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>201</xmin>
+			<xmax>375</xmax>
+			<ymin>314</ymin>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

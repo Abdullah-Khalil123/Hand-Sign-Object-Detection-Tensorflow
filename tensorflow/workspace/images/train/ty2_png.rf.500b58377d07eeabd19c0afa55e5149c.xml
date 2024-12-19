@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ty2_png.rf.500b58377d07eeabd19c0afa55e5149c.jpg</filename>
+	<path>ty2_png.rf.500b58377d07eeabd19c0afa55e5149c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thank-you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>362</xmin>
+			<xmax>588</xmax>
+			<ymin>306</ymin>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>
