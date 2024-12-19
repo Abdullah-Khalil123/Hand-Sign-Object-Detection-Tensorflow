@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>help3_png.rf.c4156e1b096640abfcf23971258e36f0.jpg</filename>
+	<path>help3_png.rf.c4156e1b096640abfcf23971258e36f0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>help</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>284</xmin>
+			<xmax>584</xmax>
+			<ymin>594</ymin>
+			<ymax>949</ymax>
+		</bndbox>
+	</object>
+</annotation>

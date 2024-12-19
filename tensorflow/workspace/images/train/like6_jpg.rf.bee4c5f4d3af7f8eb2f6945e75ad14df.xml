@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>like6_jpg.rf.bee4c5f4d3af7f8eb2f6945e75ad14df.jpg</filename>
+	<path>like6_jpg.rf.bee4c5f4d3af7f8eb2f6945e75ad14df.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>like</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>353</xmin>
+			<xmax>651</xmax>
+			<ymin>520</ymin>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,90 @@
+item {
+    name: "I",
+    id: 1,
+    display_name: "I"
+}
+item {
+    name: "apple",
+    id: 2,
+    display_name: "apple"
+}
+item {
+    name: "can",
+    id: 3,
+    display_name: "can"
+}
+item {
+    name: "get",
+    id: 4,
+    display_name: "get"
+}
+item {
+    name: "good",
+    id: 5,
+    display_name: "good"
+}
+item {
+    name: "have",
+    id: 6,
+    display_name: "have"
+}
+item {
+    name: "help",
+    id: 7,
+    display_name: "help"
+}
+item {
+    name: "how",
+    id: 8,
+    display_name: "how"
+}
+item {
+    name: "like",
+    id: 9,
+    display_name: "like"
+}
+item {
+    name: "love",
+    id: 10,
+    display_name: "love"
+}
+item {
+    name: "my",
+    id: 11,
+    display_name: "my"
+}
+item {
+    name: "no",
+    id: 12,
+    display_name: "no"
+}
+item {
+    name: "sorry",
+    id: 13,
+    display_name: "sorry"
+}
+item {
+    name: "thank-you",
+    id: 14,
+    display_name: "thank-you"
+}
+item {
+    name: "want",
+    id: 15,
+    display_name: "want"
+}
+item {
+    name: "yes",
+    id: 16,
+    display_name: "yes"
+}
+item {
+    name: "you",
+    id: 17,
+    display_name: "you"
+}
+item {
+    name: "your",
+    id: 18,
+    display_name: "your"
+}

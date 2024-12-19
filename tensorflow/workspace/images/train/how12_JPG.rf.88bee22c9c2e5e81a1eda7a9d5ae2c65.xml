@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>how12_JPG.rf.88bee22c9c2e5e81a1eda7a9d5ae2c65.jpg</filename>
+	<path>how12_JPG.rf.88bee22c9c2e5e81a1eda7a9d5ae2c65.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>how</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>516</xmin>
+			<xmax>715</xmax>
+			<ymin>533</ymin>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+</annotation>

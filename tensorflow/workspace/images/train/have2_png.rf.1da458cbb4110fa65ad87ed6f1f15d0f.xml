@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>have2_png.rf.1da458cbb4110fa65ad87ed6f1f15d0f.jpg</filename>
+	<path>have2_png.rf.1da458cbb4110fa65ad87ed6f1f15d0f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>have</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>213</xmin>
+			<xmax>761</xmax>
+			<ymin>597</ymin>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+</annotation>

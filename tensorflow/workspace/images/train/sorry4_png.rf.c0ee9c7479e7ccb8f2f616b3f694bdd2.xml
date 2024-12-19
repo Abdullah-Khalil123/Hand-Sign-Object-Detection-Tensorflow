@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>sorry4_png.rf.c0ee9c7479e7ccb8f2f616b3f694bdd2.jpg</filename>
+	<path>sorry4_png.rf.c0ee9c7479e7ccb8f2f616b3f694bdd2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sorry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>386</xmin>
+			<xmax>526</xmax>
+			<ymin>625</ymin>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+</annotation>
